@@ -1,0 +1,69 @@
+body{
+			border: 1px solid;
+			height: 700px;
+}
+header{
+			border :1px solid;
+			padding: 10px;
+			background: #141052;
+			color: white;
+}
+#Men{
+			float: right;
+			color: white;
+			padding-right: 20px; 
+}
+#admin-menu{
+			height: 300px;
+			margin-left: auto;
+			margin-right: auto;
+			margin-bottom: 200px;
+}
+footer{
+			border: 1px solid;
+			padding: 25px;
+			background: #637c7d;
+			color: black;
+}
+h2{
+			padding-top:  50px;
+			text-align: center;
+}
+td{
+			padding-left: 20px;
+}
+img{
+	height: 50px;
+	width: 50px;
+	padding-left: 30px;
+}
+#customer-menu{
+	height: 200px;
+	margin-bottom: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#td-left{
+	padding-right: 50px;
+}
+#table-Edit{
+	margin-left: auto;
+	margin-right: auto;
+	height: 300px;
+	margin-bottom: 200px;
+}
+#menu-saved{
+	padding-top: 100px;
+	height: 200px;
+	margin-bottom: 200px;
+	text-align: center;
+}
+#menu-notification{
+	text-align: center;
+}
+#customer-menu-notification{
+	height: 180px;
+	margin-bottom: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
